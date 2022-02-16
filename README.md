@@ -21,5 +21,6 @@
  ##            #💥🎃💥 Let´s Go!!#🔥🔥🔥
  
  
- https://zippy.gfycat.com/ZealousRichCondor.mp4
+ 
+  <img src=" https://zippy.gfycat.com/ZealousRichCondor.mp4/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="300" height="300"/>
 
