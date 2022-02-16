@@ -15,7 +15,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
   
-  
-<img src='https://random-memer.herokuapp.com/' width="470" height="420" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+   ##
+<img src='https://random-memer.herokuapp.com/' width="490" height="400" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 
