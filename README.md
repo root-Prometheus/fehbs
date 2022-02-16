@@ -15,8 +15,3 @@
    ##
 <img src='https://random-memer.herokuapp.com/' width="400" height="350" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
-
-
-
-
-
