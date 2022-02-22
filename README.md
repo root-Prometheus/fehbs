@@ -44,8 +44,7 @@
   <a href="https://www.linkedin.com/in/fernandohbs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    
-   ![](https://github.com/fehbs/github-stats/blob/master/generated/overview.svg?raw=true)
-![](https://github.com/fehbs/github-stats/blob/master/generated/languages.svg?raw=true)
+
 
  
  
