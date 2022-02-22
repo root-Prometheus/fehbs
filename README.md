@@ -15,7 +15,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
   
-   ##
+##
 <img src='https://random-memer.herokuapp.com/' width="400" height="350" title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
 ##
@@ -29,14 +29,16 @@
 
 ##            #🎃🔥🐱‍🏍Power Up Guys!!!#   
 ##
- ##            #💥🎃💥 Let´s Go!!#🔥🔥🔥
- ##
+##            #💥🎃💥 Let´s Go!!#🔥🔥🔥
+##
  
- ## Total de Visitas no perfil :detective: <br>
+## Total de Visitas no perfil :detective: <br>
  <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/fehbs/count.svg" />
-   ##
-   ## Contact :iphone:
+
+##
+##   
+  Contact :iphone:
 <div> 
   <a href = "mailto:fernandobailao@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandohbs/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
