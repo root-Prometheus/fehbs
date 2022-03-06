@@ -1,11 +1,13 @@
-   ##  <p align="center"> Olá, tudo bem? Sou o FERNANDO HBS.👋 
+##  <p align="center"> Olá, tudo bem? Sou o FERNANDO HBS.👋 
    
 
  <p align="start">Sou músico profissional e professor de música. A resiliência me ajudou a perceber que eu poderia colaborar muito mais atuando em outras áreas. Foi aí que eu decidi fazer essa transição de carreira migrando para tecnologia que é algo que sempre gostei e me interessei. Sou um eterno aprendiz, com uma vontade incomensurável de seguir em frente.</p>
+ 
+##
 <p align="end">Aprendendo e compartilhando conteúdo com a Comunidade!!!🔥🔥</p>
 
-   ##  
-   ##
+##  
+##
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehbs&show_icons=true&theme=radical)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -29,7 +31,7 @@
 ##            <p align="center">#💥🎃💥 Let´s Go!!#🔥🔥🔥
 
  
- ##
+##
 <p align="end"> Total de Visitas no perfil :detective: <br>
  <p align="end"> 
  <img alingn="end" src="https://profile-counter.glitch.me/fehbs/count.svg" />
