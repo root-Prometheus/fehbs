@@ -11,8 +11,8 @@
    
    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fehbs&show_icons=true&theme=radical)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fehbs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
+  <p align="center">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="30" height="30" />
+   <p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" />
   
