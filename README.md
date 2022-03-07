@@ -46,7 +46,7 @@
    
   ![Snake animation](https://github.com/fehbs/fehbs/blob/output/github-contribution-grid-snake.svg)
    
-   [![readme](https://github-readme-stats.vercel.app/api/pin/?username=fehbs&repo=fehbs&theme=react)](https://github.com/fehbs/fehbs)
+
 
    
   
